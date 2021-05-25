@@ -7,16 +7,8 @@ module.exports = {
       url: 'https://github.com/chandrainf',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
-    },
-    {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chandra-pratana-putra',
+      url: 'https://www.linkedin.com/in/chandra-pratama-putra',
     },
     {
       name: 'Codepen',
