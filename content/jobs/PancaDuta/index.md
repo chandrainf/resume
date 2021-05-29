@@ -1,5 +1,5 @@
 ---
-date: '2015-07-31'
+date: '2015-06-31'
 title: 'Project Admin'
 company: 'Panca Duta Prakarsa'
 location: 'Bogor, West Java'
