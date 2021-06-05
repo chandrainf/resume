@@ -24,12 +24,7 @@ const Head = ({ title, description, image }) => {
     `,
   );
 
-  const {
-    defaultTitle,
-    defaultDescription,
-    siteUrl,
-    defaultImage,
-  } = site.siteMetadata;
+  const { defaultTitle, defaultDescription, siteUrl, defaultImage } = site.siteMetadata;
 
   const seo = {
     title: title || defaultTitle,
@@ -51,7 +46,7 @@ const Head = ({ title, description, image }) => {
       <meta property="og:url" content={seo.url} />
       <meta property="og:type" content="website" />
 
-      <meta name="google-site-verification" content="DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk" />
+      <meta name="google-site-verification" content="yy2D4gjqgdQ0VVLCIlqAbbp_3Yjd3MEM81JvJf3gKoM" />
     </Helmet>
   );
 };
