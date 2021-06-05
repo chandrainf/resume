@@ -63,9 +63,9 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build things for the web.</h3>;
   const four = (
     <p>
-      I'm a Bogor-based front-end enthusiast who specializes in building (and occasionally designing)
+      I'm a Bogor-based aspiring front-end developer who specializes in building (and occasionally designing)
       exceptional digital experiences. Currently, I'm an office administrator at{' '}
-      <a href="https://pancaduta.com/">Upstatement</a> focused on administrative,
+      <a href="https://pancaduta.com/">Luki Silk (Panca Duta Prakarsa Group)</a> focused on administrative and
       tax preparer.
     </p>
   );

@@ -135,18 +135,15 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Chandra and I enjoy making things alive on the internet. My interest in web development started in 2020 whendecided to resign from my previous administrative job and devote the next six months to studying front-end development again - it turns out that web development technology is now much richer than since I graduated from Diploma college which taught me a lot things about HTML, Modern CSS, &amp; ES6 Javascript!
+              Hello! My name is Chandra and I enjoy making things alive on the internet. My interest in web development started in 2020 when I decided to resign from my previous administrative job and devote the next six months to studying front-end development again - it turns out that web development technology is now much richer than since I graduated from Diploma college which taught me a lot things about HTML, Modern CSS, &amp; ES6 Javascript!
             </p>
 
             <p>
-              Fast-forward to today, and I've had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
+              Fast-forward to today, and I've had working at{' '}
+              <a href="https://pancaduta.com/">an construction company</a> and{' '}
+              <a href="https://www.linkedin.com/company/luki-silk/about/">a heavy equipment rental &amp; services</a>. My
               main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              experiences as a Freelancer.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
