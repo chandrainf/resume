@@ -1,7 +1,7 @@
 ---
 date: '2015-06-31'
 title: 'Project Admin'
-company: 'Panca Duta Prakarsa'
+company: 'Panca Duta '
 location: 'Bogor, West Java'
 range: 'October 2013 - July 2015'
 url: 'https://pancaduta.com/'

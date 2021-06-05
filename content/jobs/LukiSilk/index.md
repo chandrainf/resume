@@ -1,7 +1,7 @@
 ---
 date: '2020-05-22'
 title: 'Office Administrator & Tax Preparer '
-company: 'Luki Silk Nuetrustie'
+company: 'Luki Silk'
 location: 'Bogor, West Java'
 range: 'September 2016 - May 2020'
 url: ''

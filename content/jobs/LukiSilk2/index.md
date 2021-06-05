@@ -1,7 +1,7 @@
 ---
 date: '2015-07-01'
 title: 'Project Admin & Tax Preparer '
-company: 'Luki Silk Nuetrustie'
+company: 'Luki Silk '
 location: 'Bogor, West Java'
 range: 'July 2015 – September 2016'
 url: ''
