@@ -64,3 +64,5 @@ Head.defaultProps = {
   description: null,
   image: null,
 };
+
+/* ini head */
