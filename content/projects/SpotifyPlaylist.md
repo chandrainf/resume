@@ -1,7 +1,6 @@
 ---
 date: '2021-03-13'
 title: 'Spotify Playlist'
-cover: './spotify.png'
 github: 'https://github.com/chandrainf/codecademy'
 external: 'http://jammming-chandrainf.surge.sh/'
 tech:
