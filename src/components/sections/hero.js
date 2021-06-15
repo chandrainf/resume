@@ -63,9 +63,9 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build things for the web.</h3>;
   const four = (
     <p>
-      I'm a Bogor-based aspiring front-end developer who specializes in building (and occasionally
-      designing) exceptional digital experiences. Currently, I'm front-end development enthusiast
-      focused on building web-app project.
+      I'm a Bogor-based front-end developer who specializes in building (and occasionally designing)
+      exceptional digital experiences. Currently, I'm front-end development enthusiast focused on
+      building web-app project.
     </p>
   );
   const five = (
