@@ -2,7 +2,7 @@
 date: '2021-03-13'
 title: 'Spotify Playlist'
 github: 'https://github.com/chandrainf/codecademy'
-external: 'http://jammming-chandrainf.surge.sh/'
+external: 'http://jammming-chandra.surge.sh/'
 tech:
   - React
   - Express
