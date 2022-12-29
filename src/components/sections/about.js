@@ -145,12 +145,13 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I've had working at{' '}
-              <a href="https://pancaduta.com/">an construction company</a> and{' '}
-              <a href="https://www.linkedin.com/company/luki-silk/about/">
-                a heavy equipment rental &amp; services
+              <a href="https://www.bni.co.id/">an consumer banking corporation</a> and{' '}
+              <a href="https://www.linkedin.com/company/pt.-bank-negara-indonesia-persero-tbk./mycompany/">
+                treasury &amp; insurances
               </a>
-              . My main focus these days is building accessible, inclusive products and digital
-              experiences as a Freelancer.
+              . My main focus these days is executed test cases, drafted testing reports and
+              collaborated with software development engineers at{' '}
+              <a href="https://www.bni.co.id/">BNI</a> for a variety of user.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>

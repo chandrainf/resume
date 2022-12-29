@@ -2,7 +2,7 @@
 date: '2020-06-03'
 title: 'Front-End Development Enthusiast'
 company: 'Freelance'
-location: 'Bogor, West Jaava'
+location: 'Bogor, West Java'
 range: 'June 2020 - Present'
 url: 'https://www.chandrapratama.netlify.app/'
 ---
