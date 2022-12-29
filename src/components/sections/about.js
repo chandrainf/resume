@@ -151,7 +151,7 @@ const About = () => {
               </a>
               . My main focus these days is executed test cases, drafted testing reports and
               collaborated with software development engineers at{' '}
-              <a href="https://www.bni.co.id/">BNI</a> for a variety of user.
+              <a href="https://www.bni.co.id/">BNI</a> for a variety of users.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
