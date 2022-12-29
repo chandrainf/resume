@@ -4,7 +4,7 @@ title: 'Software QA Tester'
 company: 'Bank Negara Indonesia'
 location: 'Jakarta, D.K.I Jakarta'
 range: 'December 2021 - Present'
-url: 'https://www.chandrapratama.netlify.app/'
+url: 'https://www.bni.co.id/'
 ---
 
 - Executed 350+ test plans and test cases, beating team efficiency averages by 25% against work-completion deadlines
