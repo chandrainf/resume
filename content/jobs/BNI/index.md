@@ -3,7 +3,7 @@ date: '2022-12-27'
 title: 'Software QA Tester'
 company: 'Bank Negara Indonesia'
 location: 'Jakarta, D.K.I Jakarta'
-range: 'December 2021 - Present'
+range: 'December 2021 - December 2022'
 url: 'https://www.bni.co.id/'
 ---
 
