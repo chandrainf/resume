@@ -64,8 +64,8 @@ const Hero = () => {
   const four = (
     <p>
       Meticulous web developer with one years of front end experience and passion for responsive
-      website design and a firm believer in the mobile-first approach. Currently, I'm focused on
-      build microsite for mobile Banking at{' '}
+      website design, landing pages and a firm believer in the mobile-first approach. Currently, I'm
+      focused on build microsite for mobile Banking at{' '}
       <a href="https://www.bni.co.id/" target="_blank" rel="noreferrer">
         BNI
       </a>
