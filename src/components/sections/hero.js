@@ -63,8 +63,9 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build things for the web.</h3>;
   const four = (
     <p>
-      I'm a Bogor-based QA Tester who specializes in software testing. Seeking to exceed high
-      standard for Web-based testing. Currently, I'm focused on testing core banking softwares at{' '}
+      Meticulous web developer with one years of front end experience and passion for responsive
+      website design and a firm believer in the mobile-first approach. Currently, I'm focused on
+      build microsite for mobile Banking at{' '}
       <a href="https://www.bni.co.id/" target="_blank" rel="noreferrer">
         BNI
       </a>
