@@ -8,7 +8,7 @@ tech:
   - CSS Grid
   - Gulp
   - SASS
-showInProjects: false
+showInProjects: true
 ---
 
 11 Flexbox & Grid CSS Projects example. Projects based on [Udemy](https://www.udemy.com/course/css-grid-flexbox-the-ultimate-course-build-10-projects/). Several examples including a AirBNB Clone, Udemy & Netflix Login Page. Building one-dimensional layouts with CSS [Flexbox ](https://www.w3schools.com/css) and [Grid Layout](https://www.w3schools.com/css/css_grid.asp).
