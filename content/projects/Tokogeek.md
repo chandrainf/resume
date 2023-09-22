@@ -10,7 +10,7 @@ tech:
   - Node.js
   - Stripe API
   - Cloudinary API
-showInProjects: false
+showInProjects: true
 ---
 
 Tokogeek is an online mall that allows sellers to open their shops and make sales easily without having to think about renting a shop and paying employee salaries. Prioritizing transaction security, Tokogeek offers a safe, easy and comfortable online buying and selling experience..
