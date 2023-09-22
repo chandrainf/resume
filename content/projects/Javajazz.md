@@ -1,6 +1,6 @@
 ---
 date: '2023-05-30'
-title: 'Sky Avenue 2023'
+title: 'Java Jazz 2023'
 tech:
   - Next JS
   - React.js
