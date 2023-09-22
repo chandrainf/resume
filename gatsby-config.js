@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Chandra Pratama Putra',
     description:
-      'Chandra Pratama is a front-end developer enthusiast who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'Chandra Pratama is a front-end developer  with one years of front end experience and passion for responsive website design and a firm believer in the mobile-first approach.',
     siteUrl: 'https://chandrapratama.netlify.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     //twitterUsername: '@bchiang7',
