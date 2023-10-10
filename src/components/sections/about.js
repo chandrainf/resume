@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'React', 'Node.js', 'Gatsby'];
+  const skills = ['Next.js', 'React', 'Zustand', 'TailwindCSS'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -139,7 +139,7 @@ const About = () => {
               in web development started in 2020 when I decided to resign from my previous
               administrative job and devote the next six months to studying front-end development
               again - it turns out that web development technology is now much richer than since I
-              graduated from Diploma college which taught me a lot things about HTML, Modern CSS,
+              graduated from Diploma college which taught me a lot things about Next.js, React.js,
               &amp; ES6 Javascript!
             </p>
 
@@ -149,9 +149,12 @@ const About = () => {
               <a href="https://www.linkedin.com/company/pt.-bank-negara-indonesia-persero-tbk./mycompany/">
                 treasury &amp; insurances
               </a>
-              . My main focus these days is executed test cases, drafted testing reports and
-              collaborated with software development engineers at{' '}
-              <a href="https://www.bni.co.id/">BNI</a> for a variety of users.
+              . My main focus these days is implemented websites, mobile applications, and landing
+              pages from concept through deployment. Standardized all output with a new, responsive,
+              mobile-first approach and strategy. Assessed UX and UI designs for technical
+              feasibility. Developed standard and ad hoc reports in graph format as required and
+              collaborated with product team members to implement new feature development at{' '}
+              <a href="https://www.bni.co.id/">BNI</a>.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
